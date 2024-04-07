@@ -1,7 +1,7 @@
 {
-  "name": "tailwindcss-crash-course",
+  "name": "club-portal",
   "version": "1.0.0",
-  "description": "1. **What does this project do? Is it something like a website, app, library, or command tool?**    - This project appears to be a Tailwind CSS crash course. Tailwind CSS is a utility-first CSS framework for quickly building custom designs.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "npx tailwindcss -i ./input.css -o ./output.css --watch",
