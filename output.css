@@ -710,6 +710,18 @@ video {
   margin: auto;
 }
 
+.m-24 {
+  margin: 6rem;
+}
+
+.m-20 {
+  margin: 5rem;
+}
+
+.m-\[54px\] {
+  margin: 54px;
+}
+
 .mx-12 {
   margin-left: 3rem;
   margin-right: 3rem;
@@ -753,6 +765,11 @@ video {
 .my-6 {
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
+}
+
+.my-8 {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 
 .-mr-4 {
@@ -849,6 +866,38 @@ video {
 
 .mt-8 {
   margin-top: 2rem;
+}
+
+.mb-14 {
+  margin-bottom: 3.5rem;
+}
+
+.mb-8 {
+  margin-bottom: 2rem;
+}
+
+.mb-\[10px\] {
+  margin-bottom: 10px;
+}
+
+.mb-\[30px\] {
+  margin-bottom: 30px;
+}
+
+.mb-\[54px\] {
+  margin-bottom: 54px;
+}
+
+.mt-\[\] {
+  margin-top: ;
+}
+
+.mt-\[30px\] {
+  margin-top: 30px;
+}
+
+.mt-\[20px\] {
+  margin-top: 20px;
 }
 
 .block {
@@ -1504,6 +1553,30 @@ video {
   padding-top: 1rem;
 }
 
+.pt-10 {
+  padding-top: 2.5rem;
+}
+
+.pt-20 {
+  padding-top: 5rem;
+}
+
+.pt-0 {
+  padding-top: 0px;
+}
+
+.pt-32 {
+  padding-top: 8rem;
+}
+
+.pt-28 {
+  padding-top: 7rem;
+}
+
+.pt-24 {
+  padding-top: 6rem;
+}
+
 .text-left {
   text-align: left;
 }
@@ -1815,6 +1888,11 @@ body {
   .md\:my-14 {
     margin-top: 3.5rem;
     margin-bottom: 3.5rem;
+  }
+
+  .md\:my-8 {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
   }
 
   .md\:mb-4 {
