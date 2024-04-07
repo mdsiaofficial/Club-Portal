@@ -32,6 +32,10 @@ JavaScript: Understanding event listeners and DOM manipulation through the scrip
 
 HTML and CSS: Practicing structuring a webpage and styling elements using the provided files.
 
+
+font-family: "Overpass Mono", "IBM Plex Mono", JetBrains Mono, "Slabo13px-Regular", 'Courier New', "Cascadia Code", Consolas, "Inconsolata", Fira Code, monospace;
+
+
 <!-- 
 npm init -y ✅
 
